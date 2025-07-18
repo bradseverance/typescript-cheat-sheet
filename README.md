@@ -4,7 +4,7 @@ This is a minimal Node.js project designed to help you explore how TypeScript wo
 
 ## 📁 Project Structure
 
-```
+```text
 .
 ├── index.ts        # Your main TypeScript file
 ├── package.json    # Project metadata and scripts
